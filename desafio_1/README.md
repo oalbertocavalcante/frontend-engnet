@@ -38,6 +38,10 @@ git clone https://github.com/oalbertocavalcante/frontend-engnet.git
 3. Entre na pasta do projeto:
 
 ```powershell
+cd frontend
+```
+
+```powershell
 cd desafio_frontend_1
 ```
 
