@@ -3,7 +3,7 @@
 Descrição simples do projeto
 ---------------------------
 
-Este projeto compõe a avaliação de participação do trainee da EngNet Consultoria(https://engnetconsultoria.com.br/) e contém a página do meu currículo em formato web e possibilidde de baixar em pdf. A página reúne minhas informações de contato, formação, experiência, habilidades e uma seleção dos meu oito principais projetos. A intenção é mostrar o que eu já fiz de forma direta e objetiva.
+Este [projeto](https://curriculo-alberto.netlify.app/) compõe a avaliação de participação do trainee da [EngNet Consultoria](https://engnetconsultoria.com.br/) e contém a página do meu currículo em formato web e possibilidde de baixar em pdf. A página reúne minhas informações de contato, formação, experiência, habilidades e uma seleção dos meu oito principais projetos. A intenção é mostrar o que eu já fiz de forma direta e objetiva.
 
 Arquivos incluídos:
 
@@ -32,20 +32,20 @@ Opção 1 — usar o Git (recomendado, simples):
 2. Execute o comando abaixo para copiar o repositório para o seu computador (substitua se quiser outro nome de pasta):
 
 ```powershell
-git clone https://github.com/oalbertocavalcante/curriculo.git
+git clone https://github.com/oalbertocavalcante/frontend-engnet.git
 ```
 
 3. Entre na pasta do projeto:
 
 ```powershell
-cd curriculo
+cd desafio_frontend_1
 ```
 
 4. Abra `index.html` no navegador para ver a página.
 
 Opção 2 — sem Git (baixar ZIP):
 
-1. Abra a página do repositório no GitHub: https://github.com/oalbertocavalcante/curriculo
+1. Abra a página do repositório no GitHub: https://github.com/oalbertocavalcante/frontend-engnet
 2. Clique em Code → Download ZIP.
 3. Extraia o arquivo ZIP e abra `index.html` no navegador.
 
